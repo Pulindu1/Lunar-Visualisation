@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Lunar datasets — downloaded separately, see README ("Getting the data")
+dataset/
+data/
+*.tif
+*.nc
+*.grd
+
+# Large media
+*.mp4
+*.mov
+*.pdf
+
+# Local notes / scratch
+spec.md
+specification.pdf
+workflow.md
+output.md
+
+# Generated exploration plots
+explore_graphs/
+
+# OS files
+.DS_Store

@@ -1,0 +1,12 @@
+# Python 3.11.x required
+pygmt==0.13.0
+panel>=1.4.0
+bokeh>=3.4.0
+numpy>=1.26.4
+pillow>=10.3.0
+matplotlib>=3.8.4
+scipy>=1.13.0
+xarray>=2024.3.0
+param>=2.1.0
+cmcrameri>=1.4
+plotly>=5.0.0
